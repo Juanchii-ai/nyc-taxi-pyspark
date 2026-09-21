@@ -1,0 +1,6 @@
+pyspark>=3.5,<5.0
+pandas>=2.0,<3.0
+geopandas>=1.0,<2.0
+folium>=0.20,<1.0
+apache-sedona>=1.6,<2.0
+
